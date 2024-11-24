@@ -41,7 +41,7 @@ function guessigNumber() {
         }
         else{
             
-        return ("Congrast! You guess correctly, "+ userNumber+ " and " + 
+        return ("Congrats! You guess correctly, "+ userNumber+ " and " + 
             randomNumber + " are the same!");
             //returning the Winning message, the while loop ends.
         }
