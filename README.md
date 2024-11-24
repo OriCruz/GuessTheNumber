@@ -27,6 +27,6 @@ Same purpose of Guess the Number game, but with a couple more features integrade
 
 ##Installation 
 ```bash
-git clone https://github.com/username/project-name.git
-cd project-name
+git clone https://github.com/OriCruz/GuessTheNumber.git
+cd GuessTheNumber
 npm install
