@@ -14,9 +14,13 @@ Program allows user to guess a number within 1-100, by generating a random numbe
 - Once the user guesses correctly, the game return a congratulating message and prints both the user's and computer guess. 
 
 ## Guess the number_v1
+
+## Description
+
 Same purpose of Guess the Number game, but with a couple more features integraded making this console game interactive for the user.
 
 ## Features 
+
 -Validates user's input by returning true if the guess is a whole number and if once the input in paser into an integer it can be converted. 
 -If the input is not valid, the user will be prompted to re-enter a valid input. 
 - Check if the user's guess is too, too low, or matches the computer's number. 
@@ -26,6 +30,7 @@ Same purpose of Guess the Number game, but with a couple more features integrade
 -If the user runs out of rounds, the game stops and they get a message displaying that they ran out of rounds. 
 
 ## Installation 
+
 ```bash
 git clone https://github.com/OriCruz/GuessTheNumber.git
 cd GuessTheNumber
